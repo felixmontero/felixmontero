@@ -1,4 +1,4 @@
-### BUENAS 👋
+### Hello! 👋
 
 <!--
 **felixmontero/felixmontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ¡HOLA soy Félix estudiante de aplicaciones multiplataforma!
+## HELLO, I'm Félix, a student of multiplatform applications!
 <div align="center">
   <a href="https://github.com/felixmontero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felixmontero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/felixmontero">
     </div>
-  <h2> ¡Mis conocimientos!</h2>
+  <h2> My knowledge!</h2>
 <div> 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
