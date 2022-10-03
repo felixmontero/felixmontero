@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## HELLO, I'm Félix, a student of multiplatform applications!
+## HELLO, I'm Félix, a student of Web Development!
 <div align="center">
   <a href="https://github.com/felixmontero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felixmontero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
