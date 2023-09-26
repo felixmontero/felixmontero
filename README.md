@@ -32,8 +32,17 @@ Here are some ideas to get you started:
     
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">  
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">  
-    
-    
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg">  
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+  
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg">
+
+ 
+
+   
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     
