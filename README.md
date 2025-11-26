@@ -1,57 +1,43 @@
-### Hello! 👋
-
-<!--
-**felixmontero/felixmontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## HELLO, I'm Félix, a student of Web Development!
 <div align="center">
-  <a href="https://github.com/felixmontero">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felixmontero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixmontero&layout=compact&langs_count=7&theme=dracula"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=35ce8d&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+F%C3%A9lix;Computer+Engineering+Student;Full+Stack+Developer" alt="Typing SVG" />
+
+### 🚀 About Me
+
+I'm a passionate Computer Engineering student always looking to learn new technologies.
+
+---
+
+### 🛠️ My Tech Stack
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,java,react,js,php,laravel,docker,apache,nginx,mysql,git&theme=dark" />
+</a>
+
+<br><br>
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/felixmontero">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felixmontero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixmontero&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+</a>
+
+<br><br>
+
+### 📫 Connect with me
+
+<a href="https://www.youtube.com/c/FenixxQ" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/felix.montero_/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.twitch.tv/fenixxq" target="_blank">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+</a>
+<a href="https://discord.gg/8WNUtVq" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 </div>
-<div align="center">
-  <a href="https://github.com/felixmontero">
-    </div>
-  <h2> My knowledge!</h2>
-<div> 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">  
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">  
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg">  
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
-  
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg">
-
- 
-
-   
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    
-</div> 
-  
-  ##
- 
- 
-  <a href="https://www.youtube.com/c/FenixxQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/felix.montero_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/fenixxq" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/8WNUtVq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
