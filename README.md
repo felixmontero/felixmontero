@@ -1,43 +1,97 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=35ce8d&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+F%C3%A9lix;Computer+Engineering+Student;Full+Stack+Developer" alt="Typing SVG" />
+# Hi, I'm Félix 👋
 
-### 🚀 About Me
+### Computer Engineering student focused on Artificial Intelligence, systems programming and practical software development
 
-I'm a passionate Computer Engineering student always looking to learn new technologies.
+<p>
+  <a href="https://github.com/felixmontero?tab=followers">
+    <img src="https://img.shields.io/github/followers/felixmontero?style=for-the-badge&logo=github&label=Followers"/>
+  </a>
+  <a href="https://github.com/felixmontero?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-View%20Projects-35ce8d?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
-### 🛠️ My Tech Stack
+## About me
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,java,react,js,php,laravel,docker,apache,nginx,mysql,git&theme=dark" />
-</a>
+* 🎓 Computer Engineering student
+* 🤖 Interested in Artificial Intelligence for videogames
+* ⚙️ Strong focus on systems programming and problem solving
+* 🚀 I learn by building real projects
+* 📚 Currently working on AI agents and search algorithms (BFS / A* / Minimax)
 
-<br><br>
+---
 
-### 📊 GitHub Stats
+## Tech stack
 
-<a href="https://github.com/felixmontero">
-  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felixmontero&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,php,laravel,html,css,docker,mysql,git,nginx,apache,linux&theme=dark"/>
+</p>
 
-<br><br>
+---
 
-### 📫 Connect with me
+## Featured repositories
 
-<a href="https://www.youtube.com/c/FenixxQ" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/felix.montero_/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.twitch.tv/fenixxq" target="_blank">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-</a>
-<a href="https://discord.gg/8WNUtVq" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+* **Portfoliov2**
+  Personal portfolio website
 
+* **Practica1SO2**
+  EXT2-like filesystem implementation in C (Operating Systems project)
+
+* **MazeGame**
+  Maze-solving agents using BFS and A* search strategies
+
+* **ia_2025**
+  Artificial Intelligence agents architecture for pathfinding environments
+
+---
+
+## Current focus
+
+* 🎯 AI agents for videogames (CS2 bot research project)
+* 🧠 Search algorithms and decision systems
+* 🐧 Operating systems internals and filesystem design
+* 🐳 Containerized environments with Docker
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=felixmontero&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400"/>
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixmontero&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400"/>
+
+</div>
+
+---
+
+## Connect with me
+
+<p>
+  <a href="https://www.instagram.com/felix.montero_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.youtube.com/c/FenixxQ">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+
+  <a href="https://www.twitch.tv/fenixxq">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <sub>Artificial Intelligence · Systems Programming · Software Engineering</sub>
 </div>
