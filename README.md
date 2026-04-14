@@ -60,20 +60,6 @@
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=felixmontero&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400"/>
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixmontero&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400"/>
-
-</div>
-
----
-
 ## Connect with me
 
 <p>
